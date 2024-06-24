@@ -19,7 +19,7 @@
 
 .sidebar .new-chat{
     display: inline-flex;
-    flex-direction: column;
+    flex-direction: row;
     margin-top: 50px;
     cursor: pointer;
     align-items: center;
@@ -58,7 +58,7 @@
 
 .sidebar .bottom {
     display: flex;
-    align-items: center;
+    /* align-items: center; */
     gap: 10px;
     flex-direction: column;
     margin-bottom: 20px;
